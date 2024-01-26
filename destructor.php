@@ -15,5 +15,5 @@
         }
     }
 
-    $masum = new man('masum sahriar', 23);
+    $masum = new man('masum sahriarrrrr!!!!!!!', 23);
 ?>
